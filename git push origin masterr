@@ -1,0 +1,36 @@
+[33mcommit 1f0aac3b26b0008ac87d8ff1f0db6c0c545d8974[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 97c358d 0b92076
+Author: xPedro13x <pedro.ortega13@icloud.com>
+Date:   Mon Jun 13 21:35:02 2022 -0500
+
+    Merge branch 'master' of https://github.com/xPedro13x/first-project
+
+[33mcommit 97c358ddb4cd7c5c419bd6175b38670ff65be263[m
+Author: xPedro13x <pedro.ortega13@icloud.com>
+Date:   Mon Jun 13 21:30:59 2022 -0500
+
+    add home.html
+
+[33mcommit 0b920766aa89616c1b641e0ef446c8b88864236f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Pedro Ortega <78502255+xPedro13x@users.noreply.github.com>
+Date:   Mon Jun 13 21:29:29 2022 -0500
+
+    Create file.txt
+
+[33mcommit 5ee7d97095ef52bd7a96197d38ae0a14ae00a83d[m
+Author: xPedro13x <pedro.ortega13@icloud.com>
+Date:   Mon Jun 13 16:27:45 2022 -0500
+
+    button click, ignore log files
+
+[33mcommit f7b2dd77deaaff65ce061394640f71b6ddbf0c95[m
+Author: xPedro13x <pedro.ortega13@icloud.com>
+Date:   Mon Jun 13 16:15:00 2022 -0500
+
+    added JavaScript
+
+[33mcommit ce5de126c3788486670d49b33f5db6b64124d59d[m
+Author: xPedro13x <pedro.ortega13@icloud.com>
+Date:   Mon Jun 13 16:04:27 2022 -0500
+
+    initial commit
